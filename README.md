@@ -1,4 +1,4 @@
-# TFM
+# Evaluation of neural network architectures applied to the identification and classification of colon nuclei.
 Detection and classification of cell nuclei in histologic imaging of the colon
 
 The training and testing of the models has been performed with the CoNIC: Colon Nuclei Identification and Counting Challenge dataset, making the division between both sets according to the same challenge.
